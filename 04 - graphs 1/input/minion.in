@@ -1,0 +1,1865 @@
+21
+3
+stairs
+talking
+staring
+4 5
+0 3 talking
+0 1 abc
+0 2 xyz
+1 3 stairs
+2 3 staring
+3
+fire
+water
+people
+4 5
+0 1 abc
+0 2 water
+1 2 fire
+1 3 xyz
+2 3 abc
+50
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+30 435
+0 1 a
+0 2 a
+0 3 a
+0 4 a
+0 5 a
+0 6 a
+0 7 a
+0 8 a
+0 9 a
+0 10 a
+0 11 a
+0 12 a
+0 13 a
+0 14 a
+0 15 a
+0 16 a
+0 17 a
+0 18 a
+0 19 a
+0 20 a
+0 21 a
+0 22 a
+0 23 a
+0 24 a
+0 25 a
+0 26 a
+0 27 a
+0 28 a
+0 29 a
+1 2 a
+1 3 a
+1 4 a
+1 5 a
+1 6 a
+1 7 a
+1 8 a
+1 9 a
+1 10 a
+1 11 a
+1 12 a
+1 13 a
+1 14 a
+1 15 a
+1 16 a
+1 17 a
+1 18 a
+1 19 a
+1 20 a
+1 21 a
+1 22 a
+1 23 a
+1 24 a
+1 25 a
+1 26 a
+1 27 a
+1 28 a
+1 29 a
+2 3 a
+2 4 a
+2 5 a
+2 6 a
+2 7 a
+2 8 a
+2 9 a
+2 10 a
+2 11 a
+2 12 a
+2 13 a
+2 14 a
+2 15 a
+2 16 a
+2 17 a
+2 18 a
+2 19 a
+2 20 a
+2 21 a
+2 22 a
+2 23 a
+2 24 a
+2 25 a
+2 26 a
+2 27 a
+2 28 a
+2 29 a
+3 4 a
+3 5 a
+3 6 a
+3 7 a
+3 8 a
+3 9 a
+3 10 a
+3 11 a
+3 12 a
+3 13 a
+3 14 a
+3 15 a
+3 16 a
+3 17 a
+3 18 a
+3 19 a
+3 20 a
+3 21 a
+3 22 a
+3 23 a
+3 24 a
+3 25 a
+3 26 a
+3 27 a
+3 28 a
+3 29 a
+4 5 a
+4 6 a
+4 7 a
+4 8 a
+4 9 a
+4 10 a
+4 11 a
+4 12 a
+4 13 a
+4 14 a
+4 15 a
+4 16 a
+4 17 a
+4 18 a
+4 19 a
+4 20 a
+4 21 a
+4 22 a
+4 23 a
+4 24 a
+4 25 a
+4 26 a
+4 27 a
+4 28 a
+4 29 a
+5 6 a
+5 7 a
+5 8 a
+5 9 a
+5 10 a
+5 11 a
+5 12 a
+5 13 a
+5 14 a
+5 15 a
+5 16 a
+5 17 a
+5 18 a
+5 19 a
+5 20 a
+5 21 a
+5 22 a
+5 23 a
+5 24 a
+5 25 a
+5 26 a
+5 27 a
+5 28 a
+5 29 a
+6 7 a
+6 8 a
+6 9 a
+6 10 a
+6 11 a
+6 12 a
+6 13 a
+6 14 a
+6 15 a
+6 16 a
+6 17 a
+6 18 a
+6 19 a
+6 20 a
+6 21 a
+6 22 a
+6 23 a
+6 24 a
+6 25 a
+6 26 a
+6 27 a
+6 28 a
+6 29 a
+7 8 a
+7 9 a
+7 10 a
+7 11 a
+7 12 a
+7 13 a
+7 14 a
+7 15 a
+7 16 a
+7 17 a
+7 18 a
+7 19 a
+7 20 a
+7 21 a
+7 22 a
+7 23 a
+7 24 a
+7 25 a
+7 26 a
+7 27 a
+7 28 a
+7 29 a
+8 9 a
+8 10 a
+8 11 a
+8 12 a
+8 13 a
+8 14 a
+8 15 a
+8 16 a
+8 17 a
+8 18 a
+8 19 a
+8 20 a
+8 21 a
+8 22 a
+8 23 a
+8 24 a
+8 25 a
+8 26 a
+8 27 a
+8 28 a
+8 29 a
+9 10 a
+9 11 a
+9 12 a
+9 13 a
+9 14 a
+9 15 a
+9 16 a
+9 17 a
+9 18 a
+9 19 a
+9 20 a
+9 21 a
+9 22 a
+9 23 a
+9 24 a
+9 25 a
+9 26 a
+9 27 a
+9 28 a
+9 29 a
+10 11 a
+10 12 a
+10 13 a
+10 14 a
+10 15 a
+10 16 a
+10 17 a
+10 18 a
+10 19 a
+10 20 a
+10 21 a
+10 22 a
+10 23 a
+10 24 a
+10 25 a
+10 26 a
+10 27 a
+10 28 a
+10 29 a
+11 12 a
+11 13 a
+11 14 a
+11 15 a
+11 16 a
+11 17 a
+11 18 a
+11 19 a
+11 20 a
+11 21 a
+11 22 a
+11 23 a
+11 24 a
+11 25 a
+11 26 a
+11 27 a
+11 28 a
+11 29 a
+12 13 a
+12 14 a
+12 15 a
+12 16 a
+12 17 a
+12 18 a
+12 19 a
+12 20 a
+12 21 a
+12 22 a
+12 23 a
+12 24 a
+12 25 a
+12 26 a
+12 27 a
+12 28 a
+12 29 a
+13 14 a
+13 15 a
+13 16 a
+13 17 a
+13 18 a
+13 19 a
+13 20 a
+13 21 a
+13 22 a
+13 23 a
+13 24 a
+13 25 a
+13 26 a
+13 27 a
+13 28 a
+13 29 a
+14 15 a
+14 16 a
+14 17 a
+14 18 a
+14 19 a
+14 20 a
+14 21 a
+14 22 a
+14 23 a
+14 24 a
+14 25 a
+14 26 a
+14 27 a
+14 28 a
+14 29 a
+15 16 a
+15 17 a
+15 18 a
+15 19 a
+15 20 a
+15 21 a
+15 22 a
+15 23 a
+15 24 a
+15 25 a
+15 26 a
+15 27 a
+15 28 a
+15 29 a
+16 17 a
+16 18 a
+16 19 a
+16 20 a
+16 21 a
+16 22 a
+16 23 a
+16 24 a
+16 25 a
+16 26 a
+16 27 a
+16 28 a
+16 29 a
+17 18 a
+17 19 a
+17 20 a
+17 21 a
+17 22 a
+17 23 a
+17 24 a
+17 25 a
+17 26 a
+17 27 a
+17 28 a
+17 29 a
+18 19 a
+18 20 a
+18 21 a
+18 22 a
+18 23 a
+18 24 a
+18 25 a
+18 26 a
+18 27 a
+18 28 a
+18 29 a
+19 20 a
+19 21 a
+19 22 a
+19 23 a
+19 24 a
+19 25 a
+19 26 a
+19 27 a
+19 28 a
+19 29 a
+20 21 a
+20 22 a
+20 23 a
+20 24 a
+20 25 a
+20 26 a
+20 27 a
+20 28 a
+20 29 a
+21 22 a
+21 23 a
+21 24 a
+21 25 a
+21 26 a
+21 27 a
+21 28 a
+21 29 a
+22 23 a
+22 24 a
+22 25 a
+22 26 a
+22 27 a
+22 28 a
+22 29 a
+23 24 a
+23 25 a
+23 26 a
+23 27 a
+23 28 a
+23 29 a
+24 25 a
+24 26 a
+24 27 a
+24 28 a
+24 29 a
+25 26 a
+25 27 a
+25 28 a
+25 29 a
+26 27 a
+26 28 a
+26 29 a
+27 28 a
+27 29 a
+28 29 a
+50
+b
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+b
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+30 435
+0 1 a
+0 2 a
+0 3 a
+0 4 a
+0 5 a
+0 6 a
+0 7 a
+0 8 a
+0 9 a
+0 10 a
+0 11 a
+0 12 a
+0 13 a
+0 14 a
+0 15 a
+0 16 a
+0 17 a
+0 18 a
+0 19 a
+0 20 a
+0 21 a
+0 22 a
+0 23 a
+0 24 a
+0 25 a
+0 26 a
+0 27 a
+0 28 a
+0 29 a
+1 2 a
+1 3 a
+1 4 a
+1 5 a
+1 6 a
+1 7 a
+1 8 a
+1 9 a
+1 10 a
+1 11 a
+1 12 a
+1 13 a
+1 14 a
+1 15 a
+1 16 a
+1 17 a
+1 18 a
+1 19 a
+1 20 a
+1 21 a
+1 22 a
+1 23 a
+1 24 a
+1 25 a
+1 26 a
+1 27 a
+1 28 a
+1 29 a
+2 3 a
+2 4 a
+2 5 a
+2 6 a
+2 7 a
+2 8 a
+2 9 a
+2 10 a
+2 11 a
+2 12 a
+2 13 a
+2 14 a
+2 15 a
+2 16 a
+2 17 a
+2 18 a
+2 19 a
+2 20 a
+2 21 a
+2 22 a
+2 23 a
+2 24 a
+2 25 a
+2 26 a
+2 27 a
+2 28 a
+2 29 a
+3 4 a
+3 5 a
+3 6 a
+3 7 a
+3 8 a
+3 9 a
+3 10 a
+3 11 a
+3 12 a
+3 13 a
+3 14 a
+3 15 a
+3 16 a
+3 17 a
+3 18 a
+3 19 a
+3 20 a
+3 21 a
+3 22 a
+3 23 a
+3 24 a
+3 25 a
+3 26 a
+3 27 a
+3 28 a
+3 29 a
+4 5 a
+4 6 a
+4 7 a
+4 8 a
+4 9 a
+4 10 a
+4 11 a
+4 12 a
+4 13 a
+4 14 a
+4 15 a
+4 16 a
+4 17 a
+4 18 a
+4 19 a
+4 20 a
+4 21 a
+4 22 a
+4 23 a
+4 24 a
+4 25 a
+4 26 a
+4 27 a
+4 28 a
+4 29 a
+5 6 a
+5 7 a
+5 8 a
+5 9 a
+5 10 a
+5 11 a
+5 12 a
+5 13 a
+5 14 a
+5 15 a
+5 16 a
+5 17 a
+5 18 a
+5 19 a
+5 20 a
+5 21 a
+5 22 a
+5 23 a
+5 24 a
+5 25 a
+5 26 a
+5 27 a
+5 28 a
+5 29 a
+6 7 a
+6 8 a
+6 9 a
+6 10 a
+6 11 a
+6 12 a
+6 13 a
+6 14 a
+6 15 a
+6 16 a
+6 17 a
+6 18 a
+6 19 a
+6 20 a
+6 21 a
+6 22 a
+6 23 a
+6 24 a
+6 25 a
+6 26 a
+6 27 a
+6 28 a
+6 29 a
+7 8 a
+7 9 a
+7 10 a
+7 11 a
+7 12 a
+7 13 a
+7 14 a
+7 15 a
+7 16 a
+7 17 a
+7 18 a
+7 19 a
+7 20 a
+7 21 a
+7 22 a
+7 23 a
+7 24 a
+7 25 a
+7 26 a
+7 27 a
+7 28 a
+7 29 a
+8 9 a
+8 10 a
+8 11 a
+8 12 a
+8 13 a
+8 14 a
+8 15 a
+8 16 a
+8 17 a
+8 18 a
+8 19 a
+8 20 a
+8 21 a
+8 22 a
+8 23 a
+8 24 a
+8 25 a
+8 26 a
+8 27 a
+8 28 a
+8 29 a
+9 10 a
+9 11 a
+9 12 a
+9 13 a
+9 14 a
+9 15 a
+9 16 a
+9 17 a
+9 18 a
+9 19 a
+9 20 a
+9 21 a
+9 22 a
+9 23 a
+9 24 a
+9 25 a
+9 26 a
+9 27 a
+9 28 a
+9 29 a
+10 11 a
+10 12 a
+10 13 a
+10 14 a
+10 15 a
+10 16 a
+10 17 a
+10 18 a
+10 19 a
+10 20 a
+10 21 a
+10 22 a
+10 23 a
+10 24 a
+10 25 a
+10 26 a
+10 27 a
+10 28 a
+10 29 a
+11 12 a
+11 13 a
+11 14 a
+11 15 a
+11 16 a
+11 17 a
+11 18 a
+11 19 a
+11 20 a
+11 21 a
+11 22 a
+11 23 a
+11 24 a
+11 25 a
+11 26 a
+11 27 a
+11 28 a
+11 29 a
+12 13 a
+12 14 a
+12 15 a
+12 16 a
+12 17 a
+12 18 a
+12 19 a
+12 20 a
+12 21 a
+12 22 a
+12 23 a
+12 24 a
+12 25 a
+12 26 a
+12 27 a
+12 28 a
+12 29 a
+13 14 a
+13 15 a
+13 16 a
+13 17 a
+13 18 a
+13 19 a
+13 20 a
+13 21 a
+13 22 a
+13 23 a
+13 24 a
+13 25 a
+13 26 a
+13 27 a
+13 28 a
+13 29 a
+14 15 a
+14 16 a
+14 17 a
+14 18 a
+14 19 a
+14 20 a
+14 21 a
+14 22 a
+14 23 a
+14 24 a
+14 25 a
+14 26 a
+14 27 a
+14 28 a
+14 29 a
+15 16 a
+15 17 a
+15 18 a
+15 19 a
+15 20 a
+15 21 a
+15 22 a
+15 23 a
+15 24 a
+15 25 a
+15 26 a
+15 27 a
+15 28 a
+15 29 a
+16 17 a
+16 18 a
+16 19 a
+16 20 a
+16 21 a
+16 22 a
+16 23 a
+16 24 a
+16 25 a
+16 26 a
+16 27 a
+16 28 a
+16 29 a
+17 18 a
+17 19 a
+17 20 a
+17 21 a
+17 22 a
+17 23 a
+17 24 a
+17 25 a
+17 26 a
+17 27 a
+17 28 a
+17 29 a
+18 19 a
+18 20 a
+18 21 a
+18 22 a
+18 23 a
+18 24 a
+18 25 a
+18 26 a
+18 27 a
+18 28 a
+18 29 a
+19 20 a
+19 21 a
+19 22 a
+19 23 a
+19 24 a
+19 25 a
+19 26 a
+19 27 a
+19 28 a
+19 29 a
+20 21 a
+20 22 a
+20 23 a
+20 24 a
+20 25 a
+20 26 a
+20 27 a
+20 28 a
+20 29 a
+21 22 a
+21 23 a
+21 24 a
+21 25 a
+21 26 a
+21 27 a
+21 28 a
+21 29 a
+22 23 a
+22 24 a
+22 25 a
+22 26 a
+22 27 a
+22 28 a
+22 29 a
+23 24 a
+23 25 a
+23 26 a
+23 27 a
+23 28 a
+23 29 a
+24 25 a
+24 26 a
+24 27 a
+24 28 a
+24 29 a
+25 26 a
+25 27 a
+25 28 a
+25 29 a
+26 27 a
+26 28 a
+26 29 a
+27 28 a
+27 29 a
+28 29 a
+50
+aaaaaaaaaaaaaaaaaaaa
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+30 435
+0 1 a
+0 2 a
+0 3 a
+0 4 a
+0 5 a
+0 6 a
+0 7 a
+0 8 a
+0 9 a
+0 10 a
+0 11 a
+0 12 a
+0 13 a
+0 14 a
+0 15 a
+0 16 a
+0 17 a
+0 18 a
+0 19 a
+0 20 a
+0 21 a
+0 22 a
+0 23 a
+0 24 a
+0 25 a
+0 26 a
+0 27 a
+0 28 a
+0 29 a
+1 2 a
+1 3 a
+1 4 a
+1 5 a
+1 6 a
+1 7 a
+1 8 a
+1 9 a
+1 10 a
+1 11 a
+1 12 a
+1 13 a
+1 14 a
+1 15 a
+1 16 a
+1 17 a
+1 18 a
+1 19 a
+1 20 a
+1 21 a
+1 22 a
+1 23 a
+1 24 a
+1 25 a
+1 26 a
+1 27 a
+1 28 a
+1 29 a
+2 3 a
+2 4 a
+2 5 a
+2 6 a
+2 7 a
+2 8 a
+2 9 a
+2 10 a
+2 11 a
+2 12 a
+2 13 a
+2 14 a
+2 15 a
+2 16 a
+2 17 a
+2 18 a
+2 19 a
+2 20 a
+2 21 a
+2 22 a
+2 23 a
+2 24 a
+2 25 a
+2 26 a
+2 27 a
+2 28 a
+2 29 a
+3 4 a
+3 5 a
+3 6 a
+3 7 a
+3 8 a
+3 9 a
+3 10 a
+3 11 a
+3 12 a
+3 13 a
+3 14 a
+3 15 a
+3 16 a
+3 17 a
+3 18 a
+3 19 a
+3 20 a
+3 21 a
+3 22 a
+3 23 a
+3 24 a
+3 25 a
+3 26 a
+3 27 a
+3 28 a
+3 29 a
+4 5 a
+4 6 a
+4 7 a
+4 8 a
+4 9 a
+4 10 a
+4 11 a
+4 12 a
+4 13 a
+4 14 a
+4 15 a
+4 16 a
+4 17 a
+4 18 a
+4 19 a
+4 20 a
+4 21 a
+4 22 a
+4 23 a
+4 24 a
+4 25 a
+4 26 a
+4 27 a
+4 28 a
+4 29 a
+5 6 a
+5 7 a
+5 8 a
+5 9 a
+5 10 a
+5 11 a
+5 12 a
+5 13 a
+5 14 a
+5 15 a
+5 16 a
+5 17 a
+5 18 a
+5 19 a
+5 20 a
+5 21 a
+5 22 a
+5 23 a
+5 24 a
+5 25 a
+5 26 a
+5 27 a
+5 28 a
+5 29 a
+6 7 a
+6 8 a
+6 9 a
+6 10 a
+6 11 a
+6 12 a
+6 13 a
+6 14 a
+6 15 a
+6 16 a
+6 17 a
+6 18 a
+6 19 a
+6 20 a
+6 21 a
+6 22 a
+6 23 a
+6 24 a
+6 25 a
+6 26 a
+6 27 a
+6 28 a
+6 29 a
+7 8 a
+7 9 a
+7 10 a
+7 11 a
+7 12 a
+7 13 a
+7 14 a
+7 15 a
+7 16 a
+7 17 a
+7 18 a
+7 19 a
+7 20 a
+7 21 a
+7 22 a
+7 23 a
+7 24 a
+7 25 a
+7 26 a
+7 27 a
+7 28 a
+7 29 a
+8 9 a
+8 10 a
+8 11 a
+8 12 a
+8 13 a
+8 14 a
+8 15 a
+8 16 a
+8 17 a
+8 18 a
+8 19 a
+8 20 a
+8 21 a
+8 22 a
+8 23 a
+8 24 a
+8 25 a
+8 26 a
+8 27 a
+8 28 a
+8 29 a
+9 10 a
+9 11 a
+9 12 a
+9 13 a
+9 14 a
+9 15 a
+9 16 a
+9 17 a
+9 18 a
+9 19 a
+9 20 a
+9 21 a
+9 22 a
+9 23 a
+9 24 a
+9 25 a
+9 26 a
+9 27 a
+9 28 a
+9 29 a
+10 11 a
+10 12 a
+10 13 a
+10 14 a
+10 15 a
+10 16 a
+10 17 a
+10 18 a
+10 19 a
+10 20 a
+10 21 a
+10 22 a
+10 23 a
+10 24 a
+10 25 a
+10 26 a
+10 27 a
+10 28 a
+10 29 a
+11 12 a
+11 13 a
+11 14 a
+11 15 a
+11 16 a
+11 17 a
+11 18 a
+11 19 a
+11 20 a
+11 21 a
+11 22 a
+11 23 a
+11 24 a
+11 25 a
+11 26 a
+11 27 a
+11 28 a
+11 29 a
+12 13 a
+12 14 a
+12 15 a
+12 16 a
+12 17 a
+12 18 a
+12 19 a
+12 20 a
+12 21 a
+12 22 a
+12 23 a
+12 24 a
+12 25 a
+12 26 a
+12 27 a
+12 28 a
+12 29 a
+13 14 a
+13 15 a
+13 16 a
+13 17 a
+13 18 a
+13 19 a
+13 20 a
+13 21 a
+13 22 a
+13 23 a
+13 24 a
+13 25 a
+13 26 a
+13 27 a
+13 28 a
+13 29 a
+14 15 a
+14 16 a
+14 17 a
+14 18 a
+14 19 a
+14 20 a
+14 21 a
+14 22 a
+14 23 a
+14 24 a
+14 25 a
+14 26 a
+14 27 a
+14 28 a
+14 29 a
+15 16 a
+15 17 a
+15 18 a
+15 19 a
+15 20 a
+15 21 a
+15 22 a
+15 23 a
+15 24 a
+15 25 a
+15 26 a
+15 27 a
+15 28 a
+15 29 a
+16 17 a
+16 18 a
+16 19 a
+16 20 a
+16 21 a
+16 22 a
+16 23 a
+16 24 a
+16 25 a
+16 26 a
+16 27 a
+16 28 a
+16 29 a
+17 18 a
+17 19 a
+17 20 a
+17 21 a
+17 22 a
+17 23 a
+17 24 a
+17 25 a
+17 26 a
+17 27 a
+17 28 a
+17 29 a
+18 19 a
+18 20 a
+18 21 a
+18 22 a
+18 23 a
+18 24 a
+18 25 a
+18 26 a
+18 27 a
+18 28 a
+18 29 a
+19 20 a
+19 21 a
+19 22 a
+19 23 a
+19 24 a
+19 25 a
+19 26 a
+19 27 a
+19 28 a
+19 29 a
+20 21 a
+20 22 a
+20 23 a
+20 24 a
+20 25 a
+20 26 a
+20 27 a
+20 28 a
+20 29 a
+21 22 a
+21 23 a
+21 24 a
+21 25 a
+21 26 a
+21 27 a
+21 28 a
+21 29 a
+22 23 a
+22 24 a
+22 25 a
+22 26 a
+22 27 a
+22 28 a
+22 29 a
+23 24 a
+23 25 a
+23 26 a
+23 27 a
+23 28 a
+23 29 a
+24 25 a
+24 26 a
+24 27 a
+24 28 a
+24 29 a
+25 26 a
+25 27 a
+25 28 a
+25 29 a
+26 27 a
+26 28 a
+26 29 a
+27 28 a
+27 29 a
+28 29 a
+5
+stairs
+talking
+laughing
+smiling
+handshakes
+7 10
+0 1 nope
+1 2 nope
+1 3 smiling
+2 3 nope
+2 5 laughing
+3 4 nope
+3 5 handshakes
+3 6 stairs
+4 5 nope
+5 6 nope
+0
+2 0
+0
+2 1
+0 1 yay
+5
+a
+b
+c
+d
+e
+30 0
+1
+stairs
+5 5
+0 1 stairs
+0 2 elevator
+1 3 piano
+2 3 stairs
+3 4 jumping
+1
+climbing
+5 5
+0 1 breathinng
+0 2 climbing
+1 3 giant
+2 3 climbing
+3 4 human
+1
+digivolve
+5 5
+0 1 evolution
+0 2 cieling
+1 3 programmers
+2 3 long
+3 4 digivolve
+1
+arc
+30 29
+0 1 a
+1 2 haha
+2 3 a
+3 4 a
+4 5 a
+5 6 s
+6 7 s
+7 8 s
+8 9 s
+9 10 a
+10 11 a
+11 12 a
+12 13 t
+13 14 f
+14 15 sd
+15 16 f
+16 17 f
+17 18 v
+18 19 v
+19 20 v
+20 21 v
+21 22 v
+22 23 v
+23 24 v
+24 25 v
+25 26 v
+26 27 v
+27 28 v
+28 29 v
+1
+arc
+30 29
+0 1 arc
+1 2 arc
+2 3 arc
+3 4 arc
+4 5 arc
+5 6 arc
+6 7 arc
+7 8 arc
+8 9 arc
+9 10 arc
+10 11 arc
+11 12 arc
+12 13 arc
+13 14 arc
+14 15 arc
+15 16 arc
+16 17 arc
+17 18 arc
+18 19 arc
+19 20 arc
+20 21 arc
+21 22 arc
+22 23 arc
+23 24 arc
+24 25 arc
+25 26 arc
+26 27 arc
+27 28 arc
+28 29 arc
+1
+arc
+30 29
+0 1 a
+1 2 haha
+2 3 a
+3 4 a
+4 5 a
+5 6 s
+6 7 s
+7 8 s
+8 9 s
+9 10 a
+10 11 a
+11 12 a
+12 13 t
+13 14 f
+14 15 sd
+15 16 f
+16 17 f
+17 18 v
+18 19 v
+19 20 v
+20 21 v
+21 22 v
+22 23 arc
+23 24 v
+24 25 v
+25 26 v
+26 27 v
+27 28 v
+28 29 v
+50
+alfa
+bravo
+charlie
+delta
+echo
+foxtrot
+golf
+hotel
+india
+juliett
+kilo
+lima
+mike
+november
+oscar
+papa
+quebec
+romeo
+sierra
+tango
+uniform
+victor
+whiskey
+xray
+yankee
+zulu
+alpha
+beta
+gamma
+delta
+epsilon
+zeta
+eta
+theta
+iota
+kappa
+lambda
+mu
+nu
+xi
+omicron
+pi
+rho
+sigma
+tau
+upsilon
+phi
+chi
+psi
+omega
+30 29
+0 1 alfa
+0 2 bravo
+0 3 charlie
+0 4 delta
+0 5 echo
+0 6 foxtrot
+0 7 golf
+0 8 hotel
+0 9 india
+0 10 juliett
+0 11 kilo
+0 12 lima
+0 13 mike
+0 14 oscar
+0 15 november
+0 16 papa
+0 17 quebec
+0 18 romeo
+0 19 sierra
+0 20 tango
+0 21 uniform
+0 22 victor
+0 23 whiskey
+0 24 xray
+0 25 yankee
+0 26 zulu
+0 27 alpha
+0 28 beta
+0 29 gamma
+50
+alfa
+bravo
+charlie
+delta
+echo
+foxtrot
+golf
+hotel
+india
+juliett
+kilo
+lima
+mike
+november
+oscar
+papa
+quebec
+romeo
+sierra
+tango
+uniform
+victor
+whiskey
+xray
+yankee
+zulu
+alpha
+beta
+gamma
+delta
+epsilon
+zeta
+eta
+theta
+iota
+kappa
+lambda
+mu
+nu
+xi
+omicron
+pi
+rho
+sigma
+tau
+upsilon
+phi
+chi
+psi
+omega
+30 29
+0 1 alfa
+0 2 bravo
+0 3 charlie
+0 4 delta
+0 5 echo
+0 6 foxtrot
+0 7 golf
+0 8 hotel
+0 9 india
+0 10 juliett
+0 11 kilo
+0 12 lima
+0 13 mike
+0 14 oscar
+0 15 november
+0 16 papa
+0 17 quebec
+0 18 romeo
+0 19 sierra
+0 20 tango
+0 21 uniform
+0 22 victor
+0 23 whiskey
+0 24 xray
+0 25 yankee
+0 26 zulu
+0 27 alpha
+0 28 beta
+0 29 stairs
+2
+stairs
+escalator
+8 9
+6 7 escalator
+5 7 elevator
+4 6 elevator
+3 5 elevator
+2 5 stairs
+1 4 elevator
+1 3 elevator
+1 2 elevator
+0 1 elevator
+2
+stairs
+escalator
+8 9
+6 7 escalator
+5 7 elevator
+4 6 elevator
+3 5 elevator
+2 5 stairs
+1 4 elevator
+1 3 stairs
+1 2 elevator
+0 1 elevator
+7
+stairs
+escalator
+smile
+handshake
+looks
+monkeys
+cheeseburger
+15 14
+0 8 stairs
+1 8 fun
+2 9 fun
+3 9 escalator
+4 10 fun
+5 10 smile
+6 11 handshake
+7 11 fun
+8 12 looks
+9 12 fun
+10 13 monkeys
+11 13 fun
+12 14 cheeseburger
+13 14 fun
+7
+stairs
+escalator
+smile
+handshake
+looks
+monkeys
+cheeseburger
+15 14
+0 8 stairs
+1 8 fun
+2 9 fun
+3 9 escalator
+4 10 fun
+5 10 smile
+6 11 handshake
+7 11 cheeseburger
+8 12 looks
+9 12 fun
+10 13 monkeys
+11 13 fun
+12 14 cheeseburger
+13 14 fun

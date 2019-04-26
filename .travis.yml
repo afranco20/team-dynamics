@@ -1,0 +1,18 @@
+language: java
+
+os:
+  - linux
+
+dist: xenial
+
+jdk:
+  - oraclejdk11
+
+script:
+  - ./tests/test-1.sh
+  - ./tests/test-2.sh
+  - ./tests/test-3.sh
+  - ./tests/test-4.sh
+  - ./tests/test-5.sh
+  - ./tests/test-6.sh
+  - ./tests/test-8.sh
